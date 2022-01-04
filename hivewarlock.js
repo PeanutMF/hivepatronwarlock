@@ -165,7 +165,7 @@ CreatureList["hive warrior"] = {
 		ability : 2,
 		damage : [1, 4, "piercing"],
 		range : "Melee (5 ft)",
-		description : "Two claws attacks as an Attack action"
+		description : "A single bite attack as an Attack action."
 	}],
     skills : {
 		"Perception" : 5,
